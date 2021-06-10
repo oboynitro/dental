@@ -42,7 +42,7 @@
     </section>
     <!--=========== BEGIN Google Map SECTION ================-->
     <section id="googleMap">
-      <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.297314036103!2d-86.74954699999999!3d34.672444999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88626565a94cdb25%3A0x74c206053b6a97c9!2s305+Intergraph+Way%2C+Madison%2C+AL+35758%2C+USA!5e0!3m2!1sen!2sbd!4v1431591462160" width="100%" height="500" frameborder="0" style="border:0"></iframe>
+      <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3975.192304395918!2d-1.7723262858535334!3d4.907460941197966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfe77915a7a38941%3A0x5a5d3ee955695cfa!2sTakoradi%20Mall!5e0!3m2!1sen!2sgh!4v1623356451810!5m2!1sen!2sgh" width="100%" height="500" frameborder="0" style="border:0"></iframe>
     </section>
     <!--=========== END Google Map SECTION ================-->
     <section id="contact">
